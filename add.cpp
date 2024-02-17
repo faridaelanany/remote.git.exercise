@@ -8,5 +8,6 @@ int main()
 	cout << x << y;
 	cout << "the addition result = ";
 	cout << x + y;
+	cout << endl;
   return 0;
 }
